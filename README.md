@@ -1,97 +1,117 @@
-# 👋 Hi, I'm Khabbaoui Othmane  
+<h1 align="center">Hi there 👋, I'm Othmane Khabbaoui</h1>
 
-I'm a **junior data engineer** from Morocco, currently studying at **ENSIAS** (National School of Computer Science and Systems Analysis).  
-I'm passionate about **data engineering**, **cloud technologies**, and **big data architectures** — basically anything that turns raw data into something meaningful and useful.
-
----
-
-### 💡 About Me
-
-- 💻 I enjoy building **end-to-end data pipelines**, from ingestion to analytics and visualization.  
-- ☁️ I’ve worked with both **private cloud (VMware)** and **public cloud (AWS)** infrastructures.  
-- ⚙️ I like working with **Apache tools** — Spark, Kafka, Airflow, Cassandra — to design scalable data systems.  
-- 🧠 I’m also interested in **MLOps**, **SIEM systems**, and **real-time data streaming**.  
-- 🎯 My goal is to become a **Cloud Data Engineer**, bridging big data and cloud architecture.
+<p align="center">
+  <a href="https://www.linkedin.com/in/othmane-khabbaoui-171175245/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:khabbaouiothmane@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-### 🏢 Experience
+## 👨‍💻 About Me  
+I’m a Data Engineering student at **ENSIAS**, passionate about building real-world data systems and making sense of big data.  
+My aim? Design cloud-native architectures and pipelines that drive insights and value.
 
-#### **Maroc Datacenter — Data Engineer (Internship)**
-📍 Rabat | 📅 July – Sept 2025  
-- Designed and deployed a scalable **SIEM solution** to process security logs across a private cloud.  
-- Built a **Fast layer** for real-time severity scoring with Spark Structured Streaming.  
-- Built a **Slow layer** for batch analytics and anomaly detection using Spark MLlib.  
-- Integrated **Elasticsearch** and **Kibana** for alerting and dashboards.  
-
-**Stack:** Apache Kafka, Spark, Elasticsearch, Kibana, HDFS, PySpark  
+- Currently exploring **private & public cloud infrastructures** (VMware & AWS)  
+- Building real-time and batch pipelines using tools like **Kafka**, **Spark**, **Airflow**, **Elasticsearch**  
+- Enthusiastic about **MLOps**, **SIEM platforms**, and everything “data at scale”  
+- Based in Rabat, Morocco — always ready for collaboration and learning  
 
 ---
 
-#### **Maroc Datacenter — Cloud Data Engineer (Internship)**  
-📍 Rabat | 📅 June – Aug 2024  
-- Built a **Dockerized data pipeline** combining Kafka, Airflow, Spark, and Cassandra.  
-- Managed virtualized environments using **VMware vSphere** and **vCenter**.  
-- Automated workflows and data transformations for large-scale ingestion pipelines.  
+## 🛠 Skills  
+**Languages & Tools**:  
+`Python` · `Java` · `SQL` · `C` · `Docker` · `Linux` · `Git`
 
-**Stack:** VMware, Docker, Airflow, Kafka, Spark, Cassandra, PostgreSQL  
+**Big Data & Streaming**:  
+`Apache Spark` · `Kafka` · `Hadoop (Hive/HDFS)` · `Cassandra`
 
----
+**Cloud & DevOps**:  
+`VMware vSphere` · `AWS` · `Airflow` · `CI/CD`
 
-### 🎓 Education
-
-**State Engineering Degree in Data Engineering**  
-ENSIAS – National School of Computer Science and Systems Analysis (2023 – 2026)  
-
-**Bachelor’s in Mathematical Sciences and Applications**  
-Faculty of Sciences, Meknès — *Valedictorian* (2020 – 2023)
+**Databases & Analytics**:  
+`PostgreSQL` · `Snowflake` · `MongoDB` · `Elasticsearch`
 
 ---
 
-### 🧩 Projects
-
-- ⚡ **Fastlane SIEM** — Real-time log scoring with Kafka, Spark, and Elasticsearch.  
-- ☁️ **Automated Data Pipeline on Private Cloud** — Dockerized ETL pipeline deployed on VMware infrastructure.  
-- 🧠 **Molecular Optimization (RL)** — Deep Q-Network for molecule generation based on QED score.  
-- 🧩 **Data Analytics Pipeline** — S3 → Snowflake → dbt for data marts and dashboards.  
-- 💬 **Smart Assistant for Elderly People** — Firebase backend for reminders, chatbot, and alert systems.  
+## 📂 Featured Projects  
+- **Fastlane SIEM** – A streaming SIEM architecture for virtualized infrastructure: Kafka ingestion → Spark scoring → Elasticsearch + Kibana.  
+- **Private-Cloud Data Pipeline** – End-to-end pipeline on VMware, Docker-based: Airflow workflows, Spark batch & streaming, Cassandra for storage.  
+- **Molecular Optimization (Reinforcement Learning)** – Deep Q-Network to propose molecular structures with optimal QED score.  
+- **Smart Assistant for Elderly** – Flutter + Firebase app: reminders, cognitive games, family-connect features.
 
 ---
 
-### 🧰 Tech Stack
+## 🎓 Education & Internships  
+- **ENSIAS** — Engineering Degree in Data Engineering (2023-2026)  
+- **Faculty of Sciences, Meknès** — Bachelor in Mathematical Sciences & Applications (Valedictorian)  
+- **Internship @ Maroc Datacenter**  
+  - Data Engineer (Summer 2025): Built SIEM pipeline.  
+  - Cloud Data Engineer (Summer 2024): Built Dockerized data platform on VMware.
 
-**Languages:** Python, SQL, Java, C  
-**Big Data & Streaming:** Spark, Kafka, Airflow, Cassandra, Hadoop, dbt, Airbyte  
-**Cloud & DevOps:** AWS, VMware, Docker, Linux, Git, CI/CD  
-**Databases:** PostgreSQL, MySQL, Snowflake, MinIO  
-**Machine Learning:** scikit-learn, pandas, TensorFlow, Spark MLlib  
+---
+### 🧰 Technologies & Tools
+
+#### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-### 🧠 Certifications
-
-- IBM Big Data Engineer Certificate  
-- AWS Cloud Security Foundations  
-- AWS Cloud Foundations  
-
----
-
-### 💬 Clubs & Hobbies
-
-- Sponsorship Manager at **ENSIAS AI Club**  
-- Member of **ENSIAS IT Club**  
-- Hobbies: ⚽ Football | ♟️ Chess  
+#### ⚙️ Big Data & Streaming  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-7845E6?style=for-the-badge&logo=airbyte&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
 
-![Khabbaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabbaoui&show_icons=true&theme=tokyonight)  
+---
+
+#### 🗄 Databases & Storage  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-4F46E5?style=for-the-badge&logo=openmetadata&logoColor=white)
+
+---
+
+#### 🤖 Machine Learning & Analytics  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Spark MLlib](https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+---
+
+## 👥 Clubs & Hobbies  
+- Sponsorship Manager → ENSIAS AI Club  
+- Member → ENSIAS IT Club  
+- Hobbies: Football ⚽ · Chess ♟ · Technical talks & mentoring
+
+---
+
+## 📊 GitHub Stats  
+![Othmane’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabbaoui&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khabbaoui&layout=compact&theme=tokyonight)
 
 ---
 
-📫 **Reach me at:** [khabbaouiothmane@gmail.com](mailto:khabbaouiothmane@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/othmane-khabbaoui](https://www.linkedin.com/in/othmane-khabbaoui-171175245/)  
-
-> *“I like building things that make data smarter, faster, and more useful.”*
+> 💬 “Turning raw data into smart systems — one pipeline at a time.”  
