@@ -14,24 +14,9 @@ My aim? Design cloud-native architectures and pipelines that drive insights and 
 - Currently exploring **private & public cloud infrastructures** (VMware & AWS)  
 - Building real-time and batch pipelines using tools like **Kafka**, **Spark**, **Airflow**, **Elasticsearch**  
 - Enthusiastic about **MLOps**, **SIEM platforms**, and everything “data at scale”  
-- Based in Rabat, Morocco — always ready for collaboration and learning  
+- always ready for collaboration and learning  
 
----
 
-## 🛠 Skills  
-**Languages & Tools**:  
-`Python` · `Java` · `SQL` · `C` · `Docker` · `Linux` · `Git`
-
-**Big Data & Streaming**:  
-`Apache Spark` · `Kafka` · `Hadoop (Hive/HDFS)` · `Cassandra`
-
-**Cloud & DevOps**:  
-`VMware vSphere` · `AWS` · `Airflow` · `CI/CD`
-
-**Databases & Analytics**:  
-`PostgreSQL` · `Snowflake` · `MongoDB` · `Elasticsearch`
-
----
 
 
 ## 🎓 Education & Internships  
@@ -96,7 +81,8 @@ My aim? Design cloud-native architectures and pipelines that drive insights and 
 
 ## 👥 Clubs & Hobbies  
 - Sponsorship Manager → ENSIAS AI Club  
-- Member → ENSIAS IT Club  
+- Member → ENSIAS IT Club
+- Member → CINDH Club
 - Hobbies: Football ⚽ · Chess ♟ · Technical talks & mentoring
 
 ---
