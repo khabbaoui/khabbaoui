@@ -88,7 +88,6 @@ My aim? Design cloud-native architectures and pipelines that drive insights and 
 ---
 
 ## 📊 GitHub Stats  
-![Othmane’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=khabbaoui&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khabbaoui&layout=compact&theme=tokyonight)
 
 ---
