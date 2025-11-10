@@ -33,13 +33,6 @@ My aim? Design cloud-native architectures and pipelines that drive insights and 
 
 ---
 
-## 📂 Featured Projects  
-- **Fastlane SIEM** – A streaming SIEM architecture for virtualized infrastructure: Kafka ingestion → Spark scoring → Elasticsearch + Kibana.  
-- **Private-Cloud Data Pipeline** – End-to-end pipeline on VMware, Docker-based: Airflow workflows, Spark batch & streaming, Cassandra for storage.  
-- **Molecular Optimization (Reinforcement Learning)** – Deep Q-Network to propose molecular structures with optimal QED score.  
-- **Smart Assistant for Elderly** – Flutter + Firebase app: reminders, cognitive games, family-connect features.
-
----
 
 ## 🎓 Education & Internships  
 - **ENSIAS** — Engineering Degree in Data Engineering (2023-2026)  
